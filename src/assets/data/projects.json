@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "Booki",
+        "image": "/images/booki.webp",
+        "description": "Description : The company aims to create a user-friendly website that enables users to easily discover and book accommodations and activities in their desired city.",
+        "buttonText": "Learn More",
+        "link": "https://github.com/AdriSauv/Booki",
+        "position": "Position : Web developer Intern",
+        "mission": "Mission : Implementing the website interface using HTML and CSS and adhering to the design mockup.",
+        "skills": [
+			"Setting up a front-end development environment",
+            "Using GitHub and versioning a project with git and GitHub",
+            "Implementing a responsive interface using HTML and CSS",
+            "Integrating content according to an HTML and CSS design"
+		],
+        "website":"https://adrisauv.github.io/Booki/"
+
+    },
+    {
+		"id": 2,
+		"title": "Sophie Bluel",
+        "image":"/images/bluel.webp",
+		"description": "Description : ArchiWebos agency is responsible for designing the portfolio website of interior architect Sophie Bluel.",
+		"position": "Position : Front-end Developer assisting a team at the agency",
+        "mission": "Mission : Developing the architect's work presentation page, the site administrator's login page, and the modal for uploading new media.",
+		"skills": [
+			"Manipulating DOM elements with JavaScript",
+            "Retrieving user data in JavaScript using forms",
+            "Handling user events with JavaScript"
+		],
+		"link": "https://github.com/AdriSauv/Projet3OC"
+	},    
+    {
+        "id": 3,
+        "title": "Nina Carducci",
+        "image": "/images/nina.webp",
+        "description": "Description : As a freelance developer, I provide SEO optimization services, and Nina Carducci has expressed interest in availing them.",
+        "buttonText": "Learn More",
+        "link": "https://github.com/AdriSauv/NinaCarducci",
+        "position": "Position : Freelance Web Developer",
+        "mission": "Mission : Improving the performance, SEO and accessibility of her website, as well as fixing bugs.",
+        "skills": [
+			"Optimizing website performance and SEO",
+            "Creating a test plan to validate website functionality"
+		],
+        "website":"https://adrisauv.github.io/NinaCarducci/"
+    },
+    {
+        "id": 4,
+        "title": "Kasa",
+        "image": "/images/kasa.webp",
+        "description": "Description : Kasa is one of the leaders in peer-to-peer apartment rentals in France. They have launched a complete overhaul to transition to a full JavaScript stack with Node.js on the backend and React on the frontend.",
+        "buttonText": "Learn More",
+        "link": "https://adrisauv.github.io/Kasa/",
+        "position": "Position : Freelance Front-end Developer",
+        "mission": "Mission :  Initiating the React project and developing the entire application, including components and routes, adhering the provided design mockup.",
+        "skills": [
+            "Initializing an application with React App",
+            "Configuring navigation between application pages with React Router",
+            "Developing website interface elements using React components"
+		],
+        "website":"https://adrisauv.github.io/kasa/"
+    },
+    {
+        "id": 5,
+        "title": "Mon vieux Grimoire",
+        "image": "/images/grimoire.webp",
+        "description": "Description : Le Vieux Grimoire is a small bookstore chain located in Lille that wants to launch a website for book reference and rating.",
+        "buttonText": "Learn More",
+        "link": "https://github.com/AdriSauv/OCP7",
+        "position": "Position : Freelance Back-end Developer",
+        "mission": "Mission : Collaborating with a front-end developer to combine our skills on a new project called Mon Vieux Grimoire. My responsibility is to develop the entire back-end part.",
+        "skills": [
+			"Implementing a logical data model in compliance with regulations",
+            "Storing data and implementing secure CRUD operations"
+		],
+        "website":"https://adrisauv.github.io/OCP7/"
+    }    
+]
