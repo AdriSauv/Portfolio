@@ -1,8 +1,16 @@
 import React, { useState, useEffect } from 'react';
 import './index.css';
 import projectsData from '../../assets/data/projects.json';
+import bookiImage from '../../assets/images/booki.webp';
+import sophieImage from '../../assets/images/bluel.webp';
+import ninaImage from '../../assets/images/nina.webp';
+import kasaImage from '../../assets/images/kasa.webp';
+import grimoireImage from '../../assets/images/grimoire.webp';
 
 function Projects() {
+
+  const images = [bookiImage, sophieImage, ninaImage, grimoireImage, kasaImage];
+
   const [selectedProject, setSelectedProject] = useState(null);
 
   const openModal = (project) => {
@@ -40,9 +48,9 @@ function Projects() {
       </div>
       <div className="project_wrapper">
         <div className="slider">
-          {projectsData.map((project) => (
+          {projectsData.map((project, index) => (
             <div key={project.id} className="slider_item" onClick={() => openModal(project)}>
-              <img src={project.image} alt={project.title} />
+              <img src={images[index]} alt={project.title} />
               <div className="slider_overlay">
                 <h3>{project.title}</h3>
               </div>
