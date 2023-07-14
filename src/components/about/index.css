@@ -88,4 +88,8 @@
     .about__content {
       grid-template-columns: 1fr;
     }
+
+    .about__content-main {
+        padding: 2rem 0;
+    }
 }
