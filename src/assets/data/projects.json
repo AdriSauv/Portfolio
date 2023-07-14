@@ -2,7 +2,7 @@
     {
         "id": 1,
         "title": "Booki",
-        "image": "/images/booki.webp",
+        "image": "%PUBLIC_URL%/images/booki.webp",
         "description": "Description : The company aims to create a user-friendly website that enables users to easily discover and book accommodations and activities in their desired city.",
         "buttonText": "Learn More",
         "link": "https://github.com/AdriSauv/Booki",
@@ -20,7 +20,7 @@
     {
 		"id": 2,
 		"title": "Sophie Bluel",
-        "image":"/images/bluel.webp",
+        "image":"%PUBLIC_URL%/images/bluel.webp",
 		"description": "Description : ArchiWebos agency is responsible for designing the portfolio website of interior architect Sophie Bluel.",
 		"position": "Position : Front-end Developer assisting a team at the agency",
         "mission": "Mission : Developing the architect's work presentation page, the site administrator's login page, and the modal for uploading new media.",
@@ -34,7 +34,7 @@
     {
         "id": 3,
         "title": "Nina Carducci",
-        "image": "/images/nina.webp",
+        "image": "%PUBLIC_URL%/images/nina.webp",
         "description": "Description : As a freelance developer, I provide SEO optimization services, and Nina Carducci has expressed interest in availing them.",
         "buttonText": "Learn More",
         "link": "https://github.com/AdriSauv/NinaCarducci",
@@ -49,7 +49,7 @@
     {
         "id": 4,
         "title": "Kasa",
-        "image": "/images/kasa.webp",
+        "image": "%PUBLIC_URL%/images/kasa.webp",
         "description": "Description : Kasa is one of the leaders in peer-to-peer apartment rentals in France. They have launched a complete overhaul to transition to a full JavaScript stack with Node.js on the backend and React on the frontend.",
         "buttonText": "Learn More",
         "link": "https://adrisauv.github.io/Kasa/",
@@ -65,7 +65,7 @@
     {
         "id": 5,
         "title": "Mon vieux Grimoire",
-        "image": "/images/grimoire.webp",
+        "image": "%PUBLIC_URL%/images/grimoire.webp",
         "description": "Description : Le Vieux Grimoire is a small bookstore chain located in Lille that wants to launch a website for book reference and rating.",
         "buttonText": "Learn More",
         "link": "https://github.com/AdriSauv/OCP7",
