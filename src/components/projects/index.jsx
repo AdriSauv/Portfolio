@@ -9,7 +9,7 @@ import grimoireImage from '../../assets/images/grimoire.webp';
 
 function Projects() {
 
-  const images = [bookiImage, sophieImage, ninaImage, grimoireImage, kasaImage];
+  const images = [bookiImage, sophieImage, ninaImage, kasaImage, grimoireImage];
 
   const [selectedProject, setSelectedProject] = useState(null);
 
